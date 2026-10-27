@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BlockBlaster.unity
+    guid: 9e6ef702a4ca47b8ba609327fa982d30
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 721a8c2fa60545534906e05f66301f25, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 0a3f9f3120075140aa077b0bf41e504d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 87a03ada418bf90cd8b7bf54ce9e7d10, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,19 @@
+# Unity caches and local build output
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Builds/
+Tools/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.log
+*.apk
+*.aab
+.DS_Store
+
+.utmp/
+mono_crash.*
